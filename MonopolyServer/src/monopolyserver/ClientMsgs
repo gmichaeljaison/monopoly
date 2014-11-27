@@ -1,0 +1,28 @@
+
+
+roll dice value of all players
+    'r'         r <playerIndex> <diceValue1> <diceValue2> <placeIndex>                                         { tax, club, restHouse }
+                r <playerIndex> <diceValue1> <diceValue2> <placeIndex> <buy>                                   { normalPlace, port }
+                r <playerIndex> <diceValue1> <diceValue2> <placeIndex> <rent> <toPlayerIndex> <rentCash>       { normalPlace, port }
+                r <playerIndex> <diceValue1> <diceValue2> <placeIndex> <chance/communityChest Index>           { chance, community chest }
+
+dice value
+    'd'         d <NewplaceIndex> <buy/payRent/none>    { Normal Place (type 1) }
+                d <NewplaceIndex> <buy/payRent/none>    { port  }
+                d <NewplaceIndex> <giveSalary/not>      { go  }
+                d <NewplaceIndex>                       { tax  }
+                d <NewplaceIndex> <chanceListIndex>     { chance  }
+                d <NewplaceIndex> <communityListIndex>  { community chest  }
+                d <NewplaceIndex> <bail/card/doubles>   { jail  }
+                d <NewplaceIndex>                       { club  }
+                d <NewplaceIndex>                       { rest house  }
+
+cash
+    '$'         $ <playerIndex> <updatedAmount>
+
+crossed GO
+    'g'         g <playerIndex> <cash> <dice1> <dice2>
+turn
+    'f'         f <playerIndex>
+trade
+    't'         t <fromWhichPlayer> <placesFromHim> <placesFromClient> <(-)cashFromClient>

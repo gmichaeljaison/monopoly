@@ -1,0 +1,40 @@
+GO|0
+KanyaKumari|1|0|600
+Sea Port|2|1|700
+Madurai|1|0|600
+Pondichery|1|0|800
+Income Tax|3|
+Chennai|1|2|900
+Bangalore|1|2|900
+Chance|4|
+Hyderabad|1|2|800
+Rest House|6|
+cochin|1|3|700
+Community Chest|5
+Goa|1|3|800
+Airport|2|1|900
+Mumbai|1|3|1000
+Chance|4
+Visakapatanam|1|4|600
+Railway|2|1|700
+Bhubaneshwar|1|4|600
+Jail|8
+Patna|1|5|700
+Kolkata|1|5|800
+Port|2|6|700
+Lucknow|1|5|700
+Community Chest|5
+Kanpur|1|7|800
+Delhi|1|7|1000
+Airport|2|6|900
+Agra|1|7|800
+Club|7
+Ahmedabad|1|8|800
+Amristar|1|8|600
+Chance|4
+Chandigarh|1|8|700
+Luxury Tax|3
+Railway|2|6|600
+Shimla|1|9|600
+Community Chest|5
+Srinagar|1|9|600

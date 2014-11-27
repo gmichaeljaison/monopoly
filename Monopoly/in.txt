@@ -1,0 +1,39 @@
+0-GO|
+1-KanyaKumari|
+2-Port-Tuticorin|
+3-Madurai
+4-Pondichery
+5-IT
+6-Chennai
+7-Bangalore
+8-Chance
+9-Hyderabad
+10-Rest House
+11-cochin
+12-Goa
+13-Airport-Surat
+14-Mumbai
+15-Community Chest
+16-Visakapatanam
+18-Railway South
+19-Bhubaneshwar
+20-Jail
+21-Patna
+22-Kolkata
+23-Port
+24-Lucknow
+25-Chance
+26-Kanpur
+27-Delhi
+28-Airport
+29-Agra
+30-Club
+31-Ahmedabad
+32-Amristar
+33-Chance
+34-Chandigarh
+35-Luxury Tax
+36-Railway North
+37-Shimla
+38-Community Chest
+39-Srinagar

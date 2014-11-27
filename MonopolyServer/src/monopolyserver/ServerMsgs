@@ -1,0 +1,25 @@
+
+starting connection
+
+player name, color (info)
+    'p'                     p <name> <color>        { reply whether the name and color is available or not }
+
+dice roll
+    'r'
+finsish turn
+    'f'
+mortgage , unmortgage
+    'm'                     m <mortgage/unmortgage> <placeIndex>
+upgrade , degrade
+    'u'                     u <upgrade/degrade> <placeIndex>
+    'v'                     v
+trade
+    't'                     t <withWhichPlayer> <placesFromHim> <placesFromClient> <cashFromClient>
+buy a place
+    'b'                     b <yes/no> { confirmation }
+
+bail / try for doubles.
+    'j'                     j <bail/doubles/card>
+
+exit.
+    'x'
