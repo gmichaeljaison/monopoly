@@ -4,11 +4,11 @@ monopoly
 A multi-player Monopoly game using client-server architecture. Server is a stand-alone entity which requires someone to start it. All other players use the client program to connect to the server and play the game.
 
 ## Assumptions & Requirements:
-* The working system should have the Java Run-time Environment.
+* Any player requires Java Run-time Environment to run the client.
 * Network facilities (drivers and hardware) 
 * Player need not have the server application.
 * Server is a standalone application
-* Only who starts the server application can set the game settings.
+* Only who starts the server application can set game settings.
 
 ## Goals:
 * Keep it simple and intuitive.
@@ -28,7 +28,7 @@ Client - user interface
 
 ## Detailed System Design
 ### Classification
-System is a Client-Server application using Sockets and Streams.
+The system is a Client-Server application which uses Sockets and Streams to enable multi-player option.
 
 ### Definition
 As per the design, the application uses the two-tier architecture. And importantly, It works with a very thin client layer. The server holds the complete business logic to handle any number of players, while the client takes care of the presentation layer based on the messages from the server.
