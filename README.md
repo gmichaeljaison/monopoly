@@ -23,8 +23,8 @@ It is a client-server application. All the players (systems in the network) are 
 Two-tier Architecture
 
 ## System Architecture
-Server - business logic
-Client - user interface
+* Server - business logic
+* Client - user interface
 
 ## Detailed System Design
 ### Classification
