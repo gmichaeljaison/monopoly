@@ -3,6 +3,9 @@ monopoly
 
 A multi-player Monopoly game using client-server architecture. Server is a stand-alone entity which requires someone to start it. All other players use the client program to connect to the server and play the game.
 
+Screenshot:
+![a user screen shot](https://github.com/gmichaeljaison/monopoly/blob/master/user%20screen.png)
+
 ## Assumptions & Requirements:
 * Any player requires Java Run-time Environment to run the client.
 * Network facilities (drivers and hardware) 
