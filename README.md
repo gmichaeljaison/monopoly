@@ -38,6 +38,7 @@ Client:
 * Good Presentation Layer.
 * Establish connection with Server.
 * Send and receive data from/to other clients.
+
 Server:
 * Maintain the connection with clients.
 * Transport messages to the correct client.
